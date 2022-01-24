@@ -1,5 +1,5 @@
 package com.meghana.bankaccount;
 
-public class Account {
+public class Account { //create account
 
 }
